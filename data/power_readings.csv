@@ -1,0 +1,4 @@
+reading_id,line_id,start_at,end_at,energy_kwh,renewable_ratio,source_quality
+P001,L01,2026-09-10T08:00:00Z,2026-09-10T09:00:00Z,210,0.82,metered
+P002,L01,2026-09-10T09:00:00Z,2026-09-10T10:00:00Z,190,0.79,metered
+P003,L02,2026-09-10T08:00:00Z,2026-09-10T09:00:00Z,240,0.45,estimated

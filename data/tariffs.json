@@ -1,0 +1,17 @@
+{
+  "timezone": "Asia/Shanghai",
+  "periods": [
+    {
+      "name": "peak",
+      "start": "09:00",
+      "end": "12:00",
+      "price": 1.2
+    },
+    {
+      "name": "flat",
+      "start": "08:00",
+      "end": "09:00",
+      "price": 0.8
+    }
+  ]
+}

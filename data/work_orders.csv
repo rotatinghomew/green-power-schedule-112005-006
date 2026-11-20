@@ -1,0 +1,3 @@
+work_order_id,line_id,product,planned_start,planned_end,actual_start,actual_end,status
+W001,L01,P-A,2026-09-10T08:00:00Z,2026-09-10T10:00:00Z,2026-09-10T08:20:00Z,2026-09-10T10:30:00Z,complete
+W002,L02,P-B,2026-09-10T08:00:00Z,2026-09-10T11:00:00Z,2026-09-10T08:05:00Z,,running

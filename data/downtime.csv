@@ -1,0 +1,3 @@
+event_id,line_id,start_at,end_at,reason,reported_at
+D01,L01,2026-09-10T10:30:00Z,2026-09-10T11:00:00Z,changeover,2026-09-10T11:05:00Z
+D02,L02,2026-09-10T09:40:00Z,2026-09-10T10:30:00Z,maintenance,2026-09-11T09:00:00Z
